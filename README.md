@@ -4,13 +4,7 @@ This project, "Emotion Feedback," aims to recommend conversation topics for vide
 
 ## Project Overview
 
-### Team Members
-- 이원재
-- 이준범
-- 권영우
-- 심재호
-
-## 😋 멤버 구성
+## Team Members
 
 | <img src="https://github.com/Tave-13th-Project-Team-4-Fiurinee/.github/blob/main/profile/image/%EC%9D%B4%EC%A4%80%EB%B2%94.jpg" alt="이준범" width="150" height="150">  | <img src="https://github.com/Tave-13th-Project-Team-4-Fiurinee/.github/blob/main/profile/image/%EB%B0%B1%EC%A7%80%ED%98%84.jpg" alt="백지현" width="150" height="150"> | <img src="https://github.com/Tave-13th-Project-Team-4-Fiurinee/.github/blob/4007ad230b7f2548afc5eb506114ef3100a4d7a5/profile/image/%EC%8B%9C%EC%98%81.jpg" alt="이시영" width="150" height="150"> | <img src="https://github.com/Tave-13th-Project-Team-4-Fiurinee/.github/blob/4007ad230b7f2548afc5eb506114ef3100a4d7a5/profile/image/%EB%AC%B8%ED%9D%AC.jpg" alt="김문희" width="150" height="150"> |
 |:---:|:---:|:---:|:---:|
