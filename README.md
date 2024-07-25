@@ -87,4 +87,4 @@ Despite achieving significant accuracy for emotion detection, continuous improve
 ### Future Plans
 
 - Increase the amount of quality data to improve model performance.
-- Explore further applications, such as tracking the ball's trajectory, measuring speed, and predicting match outcomes.
+- exploring additional applications such as enhancing conversational flow and user engagemen
