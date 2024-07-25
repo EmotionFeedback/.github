@@ -1,7 +1,7 @@
 # Emotion Feedback Capstone Design Project
 
 This project, "Emotion Feedback," aims to recommend conversation topics for video chats based on real-time emotion analysis.
-
+<br>
 ## Team Members
 
 | <img src="https://github.com/Tave-13th-Project-Team-4-Fiurinee/.github/blob/main/profile/image/%EC%9D%B4%EC%A4%80%EB%B2%94.jpg" alt="이준범" width="200" height="200">  | <img src="https://github.com/Tave100Shot/.github/blob/master/profile/img/%EA%B9%83%ED%97%88%EB%B8%8C_%EB%B0%95%ED%98%84%EB%B9%88.png" alt="이원재" width="200" height="200"> | <img src="https://github.com/Tave100Shot/.github/blob/master/profile/img/%EA%B9%83%ED%97%88%EB%B8%8C_%EC%86%A1%EC%9C%A4%EC%A3%BC.png" alt="권영우" width="200" height="200"> | <img src="https://github.com/Tave100Shot/.github/blob/master/profile/img/%EA%B9%83%ED%97%88%EB%B8%8C_%EC%9D%B4%EC%9C%A0%EC%A7%84.png" alt="심재호" width="200" height="200"> |
@@ -14,10 +14,10 @@ This project, "Emotion Feedback," aims to recommend conversation topics for vide
 
 ## 📅 Development Period
  - 2024-03-02 ~ 2024-06-22
-
+<br>
 ## Introduction
 "Emotion Feedback" is a system designed to alleviate awkward atmospheres and lack of conversation topics during video chats by recommending topics based on real-time emotion analysis.
-
+<br>
 ### Common Issues in Conversations:
 <img src="https://github.com/EmotionFeedback/.github/blob/main/imgs/%EC%84%A4%EB%AC%B8.png" alt="소개팅 설문조사">
 '결혼정보회사 듀오 ‘미혼 남녀 소개팅 관련 설문 조사’  
@@ -27,17 +27,17 @@ This project, "Emotion Feedback," aims to recommend conversation topics for vide
 
 ### Solution:
 - Emotion-based conversation topic recommendation
-
+<br>
 ## System Features
 
 - **Real-time Emotion Analysis**: Analyze and store the emotions of the participants in real-time.
 - **Emotion-based Topic Recommendation**: Recommend conversation topics based on the stored emotions and conversation content.
 - **Understanding Partner’s Favorability**: Analyze and display the favorability graph of the conversation partner post-conversation.
-
+<br>
 ## System Architecture
 
 <img src="https://github.com/EmotionFeedback/.github/blob/main/imgs/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-06-05%20202344.png" alt="시스템 아키텍쳐">
-
+<br>
 ## Functional Flow
 
 1. **Video Call**: Users start a video call through the system.
@@ -70,7 +70,7 @@ This project, "Emotion Feedback," aims to recommend conversation topics for vide
 - **Frontend**: React, Figma, WebRTC, MediaStream API
 - **Backend**: FastAPI, SpringBoot, WebSocket, PostgreSQL, AWS
 - **Modeling**: CNN for image, audio, and text analysis, LangChain for natural language processing
-
+<br>
 ## Evaluation and Future Plans
 
 Despite achieving significant accuracy for emotion detection, continuous improvements are planned, including expanding the dataset, refining models, and exploring additional applications such as enhancing conversational flow and user engagement.
