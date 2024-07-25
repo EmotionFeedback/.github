@@ -2,8 +2,6 @@
 
 This project, "Emotion Feedback," aims to recommend conversation topics for video chats based on real-time emotion analysis.
 
-## Project Overview
-
 ## Team Members
 
 | <img src="https://github.com/Tave-13th-Project-Team-4-Fiurinee/.github/blob/main/profile/image/%EC%9D%B4%EC%A4%80%EB%B2%94.jpg" alt="이준범" width="200" height="200">  | <img src="https://github.com/Tave100Shot/.github/blob/master/profile/img/%EA%B9%83%ED%97%88%EB%B8%8C_%EB%B0%95%ED%98%84%EB%B9%88.png" alt="이원재" width="200" height="200"> | <img src="https://github.com/Tave100Shot/.github/blob/master/profile/img/%EA%B9%83%ED%97%88%EB%B8%8C_%EC%86%A1%EC%9C%A4%EC%A3%BC.png" alt="권영우" width="200" height="200"> | <img src="https://github.com/Tave100Shot/.github/blob/master/profile/img/%EA%B9%83%ED%97%88%EB%B8%8C_%EC%9D%B4%EC%9C%A0%EC%A7%84.png" alt="심재호" width="200" height="200"> |
@@ -16,15 +14,12 @@ This project, "Emotion Feedback," aims to recommend conversation topics for vide
 
 ## 📅 Development Period
  - 2024-03-02 ~ 2024-06-22
-<br>
 
 ### Introduction
 "Emotion Feedback" is a system designed to alleviate awkward atmospheres and lack of conversation topics during video chats by recommending topics based on real-time emotion analysis.
 
-## Problem Statement
-
 ### Common Issues in Conversations:
-
+<img src="https://cdn.datasom.co.kr/news/photo/202210/124972_17017_4159.png" alt="소개팅 설문조사">
 [소개팅 설문조사](https://cdn.datasom.co.kr/news/photo/202210/124972_17017_4159.png)
 '결혼정보회사 듀오 ‘미혼 남녀 소개팅 관련 설문 조사’
 - Awkward atmosphere
