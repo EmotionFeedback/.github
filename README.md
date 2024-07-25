@@ -15,9 +15,11 @@ This project, "Emotion Feedback," aims to recommend conversation topics for vide
 ## 📅 Development Period
  - 2024-03-02 ~ 2024-06-22
 <br>
+
 ## Introduction
 "Emotion Feedback" is a system designed to alleviate awkward atmospheres and lack of conversation topics during video chats by recommending topics based on real-time emotion analysis.
 <br>
+
 ### Common Issues in Conversations:
 <img src="https://github.com/EmotionFeedback/.github/blob/main/imgs/%EC%84%A4%EB%AC%B8.png" alt="소개팅 설문조사">
 '결혼정보회사 듀오 ‘미혼 남녀 소개팅 관련 설문 조사’  
@@ -28,6 +30,7 @@ This project, "Emotion Feedback," aims to recommend conversation topics for vide
 ### Solution:
 - Emotion-based conversation topic recommendation
 <br>
+
 ## System Features
 
 - **Real-time Emotion Analysis**: Analyze and store the emotions of the participants in real-time.
@@ -38,6 +41,7 @@ This project, "Emotion Feedback," aims to recommend conversation topics for vide
 
 <img src="https://github.com/EmotionFeedback/.github/blob/main/imgs/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-06-05%20202344.png" alt="시스템 아키텍쳐">
 <br>
+
 ## Functional Flow
 
 1. **Video Call**: Users start a video call through the system.
@@ -71,6 +75,7 @@ This project, "Emotion Feedback," aims to recommend conversation topics for vide
 - **Backend**: FastAPI, SpringBoot, WebSocket, PostgreSQL, AWS
 - **Modeling**: CNN for image, audio, and text analysis, LangChain for natural language processing
 <br>
+
 ## Evaluation and Future Plans
 
 Despite achieving significant accuracy for emotion detection, continuous improvements are planned, including expanding the dataset, refining models, and exploring additional applications such as enhancing conversational flow and user engagement.
