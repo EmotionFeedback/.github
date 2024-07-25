@@ -38,6 +38,7 @@ This project, "Emotion Feedback," aims to recommend conversation topics for vide
 - **Emotion-based Topic Recommendation**: Recommend conversation topics based on the stored emotions and conversation content.
 - **Understanding Partner’s Favorability**: Analyze and display the favorability graph of the conversation partner post-conversation.
 <br>
+
 ## System Architecture
 
 <img src="https://github.com/EmotionFeedback/.github/blob/main/imgs/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-06-05%20202344.png" alt="시스템 아키텍쳐">
