@@ -88,3 +88,13 @@ Despite achieving significant accuracy for emotion detection, continuous improve
 
 - Increase the amount of quality data to improve model performance.
 - exploring additional applications such as enhancing conversational flow and user engagemen
+<br>
+
+## Demonstration video
+
+[📼 Demonstration video](https://youtu.be/BfVNF6mo3EA?si=dSLIJjktVfRsRmDv)
+
+## Awards
+
+3rd place in Sejong University Creatvie Design Competition
+<img src="https://github.com/EmotionFeedback/.github/blob/main/imgs/KakaoTalk_20240726_041948791.jpg" alt="상">
