@@ -54,22 +54,18 @@ This project, "Emotion Feedback," aims to recommend conversation topics for vide
    - **Audio Analysis**: Analyze the tone and speed of the user's voice to determine the emotional state.
 
 3. **Data Processing**
-
-- Preprocessing images to fit CNN models.
-- Converting and preprocessing audio and text data for analysis.
+   - Preprocessing images to fit CNN models.
+   - Converting and preprocessing audio and text data for analysis.
 
 4. **Favorability Detection**
-
-- Combining data from text, image, and audio analysis to evaluate the favorability between users.
+   - Combining data from text, image, and audio analysis to evaluate the favorability between users.
 
 5. **Real-time Topic Recommendation**
-
-- Using stored data and GPT API to recommend conversation topics in real-time.
+   - Using stored data and GPT API to recommend conversation topics in real-time.
 
 6. **Data Storage and Feedback**
-
-- Storing analyzed text data and favorability scores in a database.
-- Providing feedback to users based on stored data after the conversation ends.
+   - Storing analyzed text data and favorability scores in a database.
+   - Providing feedback to users based on stored data after the conversation ends.
 
 ### Technical Stack
 
