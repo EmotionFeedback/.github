@@ -19,9 +19,9 @@ This project, "Emotion Feedback," aims to recommend conversation topics for vide
 "Emotion Feedback" is a system designed to alleviate awkward atmospheres and lack of conversation topics during video chats by recommending topics based on real-time emotion analysis.
 
 ### Common Issues in Conversations:
-<img src="https://cdn.datasom.co.kr/news/photo/202210/124972_17017_4159.png" alt="소개팅 설문조사">
-[소개팅 설문조사](https://cdn.datasom.co.kr/news/photo/202210/124972_17017_4159.png)
-'결혼정보회사 듀오 ‘미혼 남녀 소개팅 관련 설문 조사’
+<img src="https://github.com/EmotionFeedback/.github/blob/main/imgs/%EC%84%A4%EB%AC%B8.png" alt="소개팅 설문조사">
+'결혼정보회사 듀오 ‘미혼 남녀 소개팅 관련 설문 조사’  
+
 - Awkward atmosphere
 - Lack of conversation topics
 
