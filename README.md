@@ -14,8 +14,8 @@ This project, "Emotion Feedback," aims to recommend conversation topics for vide
 
 <br/>
 
-## 📅 개발 기간
- - 2024-05-12 ~ 2024-07-16
+## 📅 Development Period
+ - 2024-03-02 ~ 2024-06-22
 <br>
 
 ### Introduction
@@ -24,6 +24,9 @@ This project, "Emotion Feedback," aims to recommend conversation topics for vide
 ## Problem Statement
 
 ### Common Issues in Conversations:
+
+[소개팅 설문조사](https://cdn.datasom.co.kr/news/photo/202210/124972_17017_4159.png)
+'결혼정보회사 듀오 ‘미혼 남녀 소개팅 관련 설문 조사’
 - Awkward atmosphere
 - Lack of conversation topics
 
