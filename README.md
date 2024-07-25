@@ -15,7 +15,7 @@ This project, "Emotion Feedback," aims to recommend conversation topics for vide
 ## 📅 Development Period
  - 2024-03-02 ~ 2024-06-22
 
-### Introduction
+## Introduction
 "Emotion Feedback" is a system designed to alleviate awkward atmospheres and lack of conversation topics during video chats by recommending topics based on real-time emotion analysis.
 
 ### Common Issues in Conversations:
@@ -34,54 +34,33 @@ This project, "Emotion Feedback," aims to recommend conversation topics for vide
 - **Emotion-based Topic Recommendation**: Recommend conversation topics based on the stored emotions and conversation content.
 - **Understanding Partner’s Favorability**: Analyze and display the favorability graph of the conversation partner post-conversation.
 
-## Data Sources
-
-- **FER-2013 (Kaggle)**: Dataset labeled with seven types of emotions (28,709 samples).
-- **Self-Collected Data (Google)**: Dataset labeled from 0 to 9 (597 samples).
-- **Multimodal Video Data (AI Hub)**: Labeled data showing conversation and actions in specific situations, including positive/negative emotions, intensity, and dialogues.
-
-## Models and Outputs
-
-### Video Model
-- Outputs the probability of favorability based on visual data.
-
-### Audio/Text Model
-- Outputs the probability of favorability based on audio and text data.
-
-### Final Favorability Score
-- Combines the outputs from the video and audio/text models:
-  ```markdown
-  Final Favorability = (0.43 * Video Model Score) + (0.57 * Audio/Text Model Score)
-## Recommendation Types
-
-- **Profile-Based Recommendation**
-- **Favorability and Conversation Content-Based Recommendation**
-- **Random Topic Recommendation**
-
 ## System Architecture
 
-### Data Collection
+<img src="https://github.com/EmotionFeedback/.github/blob/main/imgs/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-06-05%20202344.png" alt="시스템 아키텍쳐">
+
+## Functional Flow
 
 1. **Video Call**: Users start a video call through the system.
+
 2. **Data Collection and Analysis**:
    - **Image Analysis**: Analyze the user's facial expressions captured from the video.
    - **Text Analysis**: Convert the conversation into text and analyze the sentiment.
    - **Audio Analysis**: Analyze the tone and speed of the user's voice to determine the emotional state.
 
-### Data Processing
+3. **Data Processing**
 
 - Preprocessing images to fit CNN models.
 - Converting and preprocessing audio and text data for analysis.
 
-### Favorability Detection
+4. **Favorability Detection**
 
 - Combining data from text, image, and audio analysis to evaluate the favorability between users.
 
-### Real-time Topic Recommendation
+5. **Real-time Topic Recommendation**
 
 - Using stored data and GPT API to recommend conversation topics in real-time.
 
-### Data Storage and Feedback
+6. **Data Storage and Feedback**
 
 - Storing analyzed text data and favorability scores in a database.
 - Providing feedback to users based on stored data after the conversation ends.
@@ -106,14 +85,3 @@ Despite achieving significant accuracy for emotion detection, continuous improve
 
 - Increase the amount of quality data to improve model performance.
 - Explore further applications, such as tracking the ball's trajectory, measuring speed, and predicting match outcomes.
-
-## Team and Contributions
-
-- **이원재**: Model Server API Development and Deployment, Prompt Engineering
-- **이준범**: Backend Server API Development, Signaling Server Development
-- **권영우**: Frontend Development
-- **심재호**: Modeling
-
-## License
-
-This project is licensed under the MIT License.
