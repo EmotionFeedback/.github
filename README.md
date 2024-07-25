@@ -6,7 +6,7 @@ This project, "Emotion Feedback," aims to recommend conversation topics for vide
 
 ## Team Members
 
-| <img src="https://github.com/Tave-13th-Project-Team-4-Fiurinee/.github/blob/main/profile/image/%EC%9D%B4%EC%A4%80%EB%B2%94.jpg" alt="이준범" width="200" height="200">  | <img src="https://github.com/Tave100Shot/.github/blob/master/profile/img/%EA%B9%83%ED%97%88%EB%B8%8C_%EB%B0%95%ED%98%84%EB%B9%88.png" alt="이원재" width="200" height="200"> | <img src="https://github.com/Tave-13th-Project-Team-4-Fiurinee/.github/blob/4007ad230b7f2548afc5eb506114ef3100a4d7a5/profile/image/%EC%8B%9C%EC%98%81.jpg" alt="권영우" width="200" height="200"> | <img src="https://github.com/Tave-13th-Project-Team-4-Fiurinee/.github/blob/4007ad230b7f2548afc5eb506114ef3100a4d7a5/profile/image/%EB%AC%B8%ED%9D%AC.jpg" alt="심재호" width="200" height="200"> |
+| <img src="https://github.com/Tave-13th-Project-Team-4-Fiurinee/.github/blob/main/profile/image/%EC%9D%B4%EC%A4%80%EB%B2%94.jpg" alt="이준범" width="200" height="200">  | <img src="https://github.com/Tave100Shot/.github/blob/master/profile/img/%EA%B9%83%ED%97%88%EB%B8%8C_%EB%B0%95%ED%98%84%EB%B9%88.png" alt="이원재" width="200" height="200"> | <img src="https://github.com/Tave100Shot/.github/blob/master/profile/img/%EA%B9%83%ED%97%88%EB%B8%8C_%EC%86%A1%EC%9C%A4%EC%A3%BC.png" alt="권영우" width="200" height="200"> | <img src="https://github.com/Tave100Shot/.github/blob/master/profile/img/%EA%B9%83%ED%97%88%EB%B8%8C_%EC%9D%B4%EC%9C%A0%EC%A7%84.png" alt="심재호" width="200" height="200"> |
 |:---:|:---:|:---:|:---:|
 | 이준범 | 이원재 | 권영우 | 심재호 |
 | Backend, Signaling Server | Model Server | Frontend | Modeling |
