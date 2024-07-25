@@ -14,7 +14,7 @@ This project, "Emotion Feedback," aims to recommend conversation topics for vide
 <br/>
 
 ## 📅 Development Period
- - 2024-03-02 ~ 2024-06-22
+ - 2024-03-02 ~ 2024-06-14
 <br>
 
 ## Introduction
