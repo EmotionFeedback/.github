@@ -97,5 +97,5 @@ Despite achieving significant accuracy for emotion detection, continuous improve
 
 ## Awards
 
-3rd place in Sejong University Creatvie Design Competition
+3rd place in Sejong University Creative Design Competition
 <img src="https://github.com/EmotionFeedback/.github/blob/main/imgs/KakaoTalk_20240726_041948791.jpg" alt="상">
