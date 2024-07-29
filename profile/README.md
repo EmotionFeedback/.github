@@ -25,6 +25,7 @@ This project, "Emotion Feedback," aims to recommend conversation topics for vide
 <img src="https://github.com/EmotionFeedback/.github/blob/main/imgs/%EC%84%A4%EB%AC%B8.png" alt="소개팅 설문조사">
 source: '결혼정보회사 듀오 ‘미혼 남녀 소개팅 관련 설문 조사’  
 <br>
+
 - Awkward atmosphere
 - Lack of conversation topics
 
